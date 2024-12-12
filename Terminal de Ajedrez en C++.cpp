@@ -1,8 +1,6 @@
 #include <iostream>
 #include <windows.h>
 using namespace std;
-// Tarea de Omar Marca
-// rut: 25.824.728-0
 // Recomiendo revisar la tarea en el compilador dev_c++, pues aca es donde se hicieron todos algoritmos. Ademas que hay compiladores que no aceptan la libreria windows.h que le da poder al ajedrez
 class Equipo{
 	protected:
